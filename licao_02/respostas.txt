@@ -1,0 +1,2 @@
+primeiro_commit=6bb687f
+ficheiros_ignorados=4
