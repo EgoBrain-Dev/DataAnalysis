@@ -1,0 +1,59 @@
+id,data,especialidade,medico,valor_mzn,estado
+C001,2026-02-17,Clinica Geral,Medico C,800,realizada
+C002,2026-03-20,Pediatria,Medico C,1000,cancelada
+C003,2026-03-27,Dermatologia,Medico C,1100,cancelada
+C004,2026-02-08,Dermatologia,Medico A,1100,faltou
+C005,2026-01-10,Clinica Geral,Medico A,800,cancelada
+C006,2026-03-16,Clinica Geral,Medico C,800,realizada
+C007,2026-02-09,Pediatria,Medico B,1000,realizada
+C008,2026-03-17,Cardiologia,Medico C,1800,realizada
+C009,2026-01-18,Ginecologia,Medico C,1200,realizada
+C010,2026-02-05,Ginecologia,Medico C,,faltou
+C011,2026-01-28,Ginecologia,Medico C,1200,realizada
+C012,2026-02-14,Ginecologia,Medico A,1200,cancelada
+C013,2026-03-16,Dermatologia,Medico A,1100,cancelada
+C014,2026-03-16,Dermatologia,Medico B,1100,faltou
+C015,2026-02-19,Ginecologia,Medico B,1200,faltou
+C016,2026-01-19,Dermatologia,Medico A,1100,realizada
+C017,2026-03-17,Clinica Geral,Medico C,800,realizada
+C018,2026-02-16,Dermatologia,Medico A,1100,cancelada
+C019,2026-01-21,Pediatria,Medico C,1000,cancelada
+C020,2026-02-30,Cardiologia,Medico B,1800,faltou
+C021,2026-03-10,Cardiologia,Medico C,1800,faltou
+C022,2026-02-14,Cardiologia,Medico A,1800,realizada
+C023,2026-01-02,Ginecologia,Medico A,1200,faltou
+C024,2026-03-16,Cardiologia,Medico B,1800,realizada
+C025,2026-03-16,Ginecologia,Medico B,1200,faltou
+C026,2026-02-18,Cardiologia,Medico C,1800,realizada
+C027,2026-02-15,Ginecologia,Medico A,1200,cancelada
+C028,2026-02-15,Dermatologia,Medico A,1100,cancelada
+C029,2026-01-21,Cardiologia,Medico B,1800,cancelada
+C030,2026-01-07,Ginecologia,Medico C,1200,cancelada
+C031,2026-02-01,Pediatria,Medico A,1000,realizada
+C032,2026-03-18,Cardiologia,Medico A,1800,faltou
+C033,2026-01-04,Pediatria,Medico C,1000,realizada
+C034,2026-02-22,Dermatologia,Medico C,1100,realizada
+C035,2026-01-11,Pediatria,Medico C,1000,faltou
+C036,2026-02-23,Dermatologia,Medico C,1100,realizada
+C037,2026-01-16,Dermatologia,Medico C,1100,realizada
+C038,2026-03-17,Dermatologia,Medico B,1100,realizada
+C039,2026-03-06,Cardiologia,Medico A,1800,faltou
+C040,2026-03-14,Ginecologia,Medico B,1200,realizada
+C041,2026-01-13,Dermatologia,Medico A,1100,realizada
+C042,2026-01-02,Cardiologia,Medico B,1800,realizada
+C043,2026-01-17,Clinica Geral,Medico B,800,realizada
+C044,2026-02-11,Ginecologia,Medico A,1200,cancelada
+C045,2026-03-20,Cardiologia,Medico A,1800,realizada
+C046,2026-03-07,Dermatologia,Medico B,1100,faltou
+C047,2026-02-20,Ginecologia,Medico A,1200,realizada
+C048,2026-02-02,Dermatologia,Medico A,1100,realizada
+C049,2026-03-18,Clinica Geral,Medico A,800,cancelada
+C050,2026-02-23,Pediatria,Medico C,1000,realizada
+C051,2026-03-17,Pediatria,Medico A,1000,faltou
+C052,2026-01-22,Pediatria,Medico A,1000,cancelada
+C053,2026-02-18,Ginecologia,Medico B,1200,realizada
+C054,2026-02-06,Cardiologia,Medico B,1800,realizada
+C055,2026-02-16,Ginecologia,Medico B,1200,realizada
+C056,2026-01-11,Cardiologia,Medico C,1800,cancelada
+C057,2026-01-17,Cardiologia,Medico C,1800,realizada
+C005,2026-01-10,Clinica Geral,Medico A,800,cancelada
