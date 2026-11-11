@@ -650,4 +650,12 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+*.idea/
+
+licao_02/privado/
+
+.log
+
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks,vs
