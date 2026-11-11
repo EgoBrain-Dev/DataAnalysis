@@ -1,0 +1,1 @@
+Obervou-se um arquivo de registo muito bem estruturado, com itens de organizacao rastreiaveis como: id de consultas, data, e quem foi que atendeu, em que sector, etc. Ainda nas consultas notou-se uma boa parte delas realizadas, algumas canceladas e faltas tudo documentado.
