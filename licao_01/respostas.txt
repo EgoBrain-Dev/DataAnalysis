@@ -1,0 +1,3 @@
+linhas_vendas_janeiro=31
+erros_no_log=13
+copia_identica=sim
