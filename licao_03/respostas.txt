@@ -1,0 +1,1 @@
+rich_versao=15.0.0
