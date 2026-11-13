@@ -1,0 +1,3 @@
+linhas_entregas=8
+entregas_atrasadas=2
+requests_versao=2.34.2
